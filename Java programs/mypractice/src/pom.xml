@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans>
+<bean id="emp" class="mypractice,Employee">
+<property name="eid" value="102"/>
+<property name="ename" value="manini"/>
+<property name="eaddress" value="odisha"/>
+
+</bean>
+
+
+</beans>
